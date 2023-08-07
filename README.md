@@ -45,7 +45,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="#"><img alt="Coming Soon" src="https://img.shields.io/badge/Website-www.websitehere.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="#"><img alt="Coming Soon" src="https://img.shields.io/badge/Website-coming soon...-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/VasilisTako/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vasilis%20Tako-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:vasilis1999@hotmail.it"><img alt="Email" src="https://img.shields.io/badge/Email-vasilis1999@hotmail.it-blue?style=flat-square&logo=microsoft-outlook"></a>
 </p>
