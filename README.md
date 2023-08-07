@@ -4,15 +4,15 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Earned my tech-wings studying Computer Science at the University of Pisa and messing up my personal projects.
-- 💼 &nbsp; Playing around with code and turning coffee into software at a cool local corporation. I make things work!
-- 🌱 &nbsp; Passionate about giving back - tryng to make open-source even more awesome one commit at a time.
-- 🌐 &nbsp; Tech enthusiast alert! Always on the hunt for the next big thing in the tech world. If it beeps, I'm interested.
+- 💼 &nbsp; Wearing the hat of a Full-Stack Developer at a local corporation, I dance between Spring Boot (Java) on the backend and Angular (TypeScript) on the frontend. For me, it's about blending logic with creativity to craft intuitive software experiences.
+- 🌱 &nbsp; The spirit of open-source is something I cherish. With every commit, I aim to contribute a piece of innovation to the tech community.
+- 🌐 &nbsp; I'm a tech enthusiast to the core. New gadgets, software updates, or groundbreaking technologies - they all catch my interest and spark my creativity.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -25,6 +25,7 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
