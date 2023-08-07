@@ -34,13 +34,14 @@
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea)
 
 
+<!--
 <h3> 📊 &nbsp;Github Stats</h3>
 <a href="https://github.com/vasilisTako">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasilisTako&count_private=true&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasilisTako&count_private=true&theme=buefy&layout=compact" />
 </a>
 <br/>
-
+-->
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
