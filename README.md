@@ -33,14 +33,14 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea)
 
-<br/>
-<br/>
+
 <h3> 📊 &nbsp;Tech Stack</h3>
 <a href="https://github.com/vasilisTako">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasilisTako&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasilisTako&theme=buefy&layout=compact" />
 </a>
-
+<br/>
+<br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
