@@ -39,10 +39,11 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome">Coming soon...</a>
-<a href="https://www.linkedin.com/in/VasilisTako/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:vasilis1999@hotmail.it"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="#"><img alt="Coming Soon" src="https://img.shields.io/badge/Website-www.websitehere.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/VasilisTako/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vasilis%20Tako-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:vasilis1999@hotmail.it"><img alt="Email" src="https://img.shields.io/badge/Email-vasilis1999@hotmail.it-blue?style=flat-square&logo=microsoft-outlook"></a>
 </p>
+
 <!--
 **VasilisTako/VasilisTako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
