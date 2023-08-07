@@ -1,5 +1,5 @@
 
-<h2> Hey floks! I'm Vasilis</h2>
+<h2> Hey Folks! I'm Vasilis</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
