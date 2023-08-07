@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; Earned my tech-wings studying Computer Science at the University of Pisa and messing up my personal projects.
 - 💼 &nbsp; Wearing the hat of a Full-Stack Developer at a local corporation, I dance between Spring Boot (Java) on the backend and Angular (TypeScript) on the frontend. For me, it's about blending logic with creativity to craft intuitive software experiences.
-- 🌱 &nbsp; The spirit of open-source is something I cherish. With every commit, I aim to contribute a piece of innovation to the tech community.
+- 🌱 &nbsp; The spirit of open-source is something I cherish. With commits, I aim to contribute and help the tech community.
 - 🌐 &nbsp; I'm a tech enthusiast to the core. New gadgets, software updates, or groundbreaking technologies - they all catch my interest and spark my creativity.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
