@@ -1,8 +1,6 @@
 
 <h2> Hey Folks! I'm Tako</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
